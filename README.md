@@ -16,10 +16,9 @@ This web server was build in MVC structure, including a routes folder to make th
 
 First steps : 
 hii dear bodek before we start please follow the next steps  🔥 -
-1. clone to your own copmuter our server repo - https://github.com/Toms752384/Youtube-web-server.git
-   please make sure you are on the main branch! the other branches are for other parts of the project, and for production.
-3. clone to your own computer our react app for part 2! it means you need to clone the app from this repo link - https://github.com/AlonLivne007/YouTube-project-.git
-   please make sure you are on main_part_2 branch! the "main" brunch is for the first part of the project.
+1. clone to your own copmuter our server repo - https://github.com/AlonLivne007/Youtube-web-server.git .
+3. clone to your own computer our react app for part 2! it means you need to clone the app from this repo link - https://github.com/AlonLivne007/Youtube-web-app.git
+   please make sure you cloned the "part-2" file! the "part-1" file is for the first part of the project.
 4. Last but not least - make sure you download to your own computer the - mongoDB app. You can find it in google on their official website - use the community edition.
 
 General description of running the code:
