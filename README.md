@@ -1,4 +1,13 @@
-# Youtube-web-server
+<h1 align="center">
+  <br/>
+  Welcome to my Youtube-web-server App
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" alt="waveEmoji"/>
+</h1>
+
+<h2 align="center">
+   This is a api server built using javascript
+</h2>
+
 Web server for youtube project.
 This web server was build in MVC structure, including a routes folder to make the server more readable and moduler.
 
